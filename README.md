@@ -3,8 +3,8 @@ I am a Cross Platform Applications Developer with keen interest in producing Use
 
 
 ## 🔧 Tech Stack
-- **Flutter** Dart
-- **Extras** HTML, CSS, JavaScript
+- **Flutter:** Dart
+- **Extras:** HTML, CSS, JavaScript
 - **Backend:** GoLang
 - **Other Tools:** Git, GitHub, VS Code, Postman
 
