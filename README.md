@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🚀 About Me
+I am a Cross Platform Applications Developer with keen interest in producing User appealing, responsive and friendly Apps or Web Apps. I enjoy building beautiful and responsive UI's and endpoints for the framework. 
 
-<!--
-**Dozie-dev/Dozie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Flutter** Dart
+- **Extras** HTML, CSS, JavaScript
+- **Backend:** GoLang
+- **Other Tools:** Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+I'm currently exploring state managements, advanced UI's and mastering GO.
+
+## 💻 Projects
+- I have some personal projects. Check my repos
+
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/promise-amaechi-543740249/)
+- [Twitter](https://twitter.com/a_new_dozie)
+- [Email](mailto:amaechipromise16@gmail.com)
+
+
+
+
